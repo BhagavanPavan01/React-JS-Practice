@@ -1,0 +1,2 @@
+const UserProfile = () => (<div><img src="https://png.pngtree.com/png-clipart/20231019/original/pngtree-user-profile-avatar-png-image_13369988.pnghttps://example.com/image.jpg" alt="" /></div>)
+export default UserProfile
